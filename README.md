@@ -50,7 +50,8 @@ Practice_Auth/
 │
 ├── src/
 │   ├── config/
-│   │   └── config.js
+│   │   ├── config.js
+│   │   └── db.js
 │   │
 │   ├── controller/
 │   │   └── auth.controller.js
